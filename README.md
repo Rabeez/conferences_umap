@@ -5,6 +5,9 @@ Inspired by [post](https://www.reddit.com/r/dataisbeautiful/comments/mvemov/oc_r
 I added the conference names and groups myself (with help from annotations from original post). 
 
 I think the cosine similarity version looks much better with tighter clusters compared to the euclidean version. Still the actual clusters and relative positions are basically same in both versions (compare the flipped version of euclidean with cosine). 
+
+![alt text](Cosine - annotated.png)
+
 - Programming languages and software engineering are together
 - All the AI/ML stuff inclusing applications (CV, NLP, Robotics) are together. The Data Manegement/Enginnering conferences are here as well. The Computational biology one also sneaked in here. I'm not sure about WWW but since I'm not familiar with the conference I can't say much.
 - VR is (imo) correctly placed in the HCI cluster
