@@ -6,7 +6,7 @@ I added the conference names and groups myself (with help from annotations from 
 
 I think the cosine similarity version looks much better with tighter clusters compared to the euclidean version. Still the actual clusters and relative positions are basically same in both versions (compare the flipped version of euclidean with cosine). 
 
-![alt text](Cosine - annotated.png)
+![alt text](https://github.com/Rabeez/conferences_umap/blob/main/Cosine%20-%20annotated.png)
 
 - Programming languages and software engineering are together
 - All the AI/ML stuff inclusing applications (CV, NLP, Robotics) are together. The Data Manegement/Enginnering conferences are here as well. The Computational biology one also sneaked in here. I'm not sure about WWW but since I'm not familiar with the conference I can't say much.
